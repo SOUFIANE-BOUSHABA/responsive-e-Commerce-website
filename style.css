@@ -83,6 +83,17 @@ main {
     color: #fff; 
     padding: 10px;
 }
+.hero .hero--content a{
+    padding: 10px 15px;
+    border:2px solid #fff;
+    background: #fff;
+    color: #A18A68;
+    border-radius: 5px;
+}
+.hero .hero--content a:hover{
+    background: transparent;
+    color: #fff;
+}
 
 /* product */
 
